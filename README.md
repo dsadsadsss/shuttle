@@ -19,7 +19,7 @@
 
 ## 节点获取
 
-方法1 日志复制链接
+方法1 进入shuttle官方后台，查看日志，复制节点链接
 
 方法2 部署订阅服务器 https://github.com/dsadsadsss/workers-sub-for-wanju.git ，填入SUB_URL
 
