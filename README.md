@@ -13,7 +13,7 @@
 
 其他环境变量可选：NSERVER、NKEY、DOM、TOK、UUID、SUB_NAME、SUB_URL
 
-注意：使用固定隧道token需要在cf后台设置8001
+注意：使用固定隧道token需要在cf后台设置8008,默认使用vms协议，你可以在deploy.yml文件里面调整协议和端口
 
 4. actions会自动部署，安装环境时间稍长，预计部署时间需要10分钟，请耐心等待，在actions中查看进度
 
