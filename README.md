@@ -25,4 +25,6 @@
 
 方法3 设置TG参数，节点上传TG
 
+方法4 哪吒后台进入，下载/tmp/list.log文件
+
 具体可以参考玩具脚本https://github.com/dsadsadsss/java-wanju.git ，可以根据需要设置参数
