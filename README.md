@@ -1,6 +1,6 @@
 # Shuttle 部署指南
 
-本项目基于老王shuttle和玩具脚本https://github.com/dsadsadsss/java-wanju.git制作
+本项目参考老王shuttle项目和玩具脚本https://github.com/dsadsadsss/java-wanju.git 制作
 
 ## 部署流程
 1. Fork 本项目
