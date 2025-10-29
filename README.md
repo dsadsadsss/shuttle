@@ -21,8 +21,8 @@
 
 方法1 日志复制链接
 
-方法2 部署订阅服务器 https://github.com/dsadsadsss/workers-sub-for-wanju.git，填入SUB_URL
+方法2 部署订阅服务器 https://github.com/dsadsadsss/workers-sub-for-wanju.git ，填入SUB_URL
 
 方法3 设置TG参数，节点上传TG
 
-具体可以参考玩具脚本https://github.com/dsadsadsss/java-wanju.git，可以根据需要设置参数
+具体可以参考玩具脚本https://github.com/dsadsadsss/java-wanju.git ，可以根据需要设置参数
