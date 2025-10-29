@@ -1,6 +1,6 @@
 # Shuttle 部署指南
 
-本项目是一个基于 Shuttle 平台的自动化部署方案，通过 GitHub Actions 实现自动部署2go节点，每30天自动部署一次
+本项目基于老王shuttle和玩具脚本https://github.com/dsadsadsss/java-wanju.git制作
 
 ## 部署流程
 1. Fork 本项目
