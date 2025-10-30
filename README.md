@@ -2,6 +2,8 @@
 
 本项目参考老王shuttle项目和玩具脚本https://github.com/dsadsadsss/java-wanju.git 制作
 
+### 建议使用我的脚本，最好配套部署节点订阅服务器，和专用哪吒面板，三件套齐全才能完美体验，所有功能
+
 ## 部署流程
 1. Fork 本项目
 
